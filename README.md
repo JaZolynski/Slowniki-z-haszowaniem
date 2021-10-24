@@ -1,1 +1,1 @@
-# S-owniki-z-haszowaniem
+# Slowniki-z-haszowaniem metoda lancuhowa i adresowanie otwarte
