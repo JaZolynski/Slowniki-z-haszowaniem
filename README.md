@@ -1,0 +1,1 @@
+# S-owniki-z-haszowaniem
